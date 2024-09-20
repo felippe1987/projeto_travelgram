@@ -1,5 +1,6 @@
 main {
   padding-block: 32px;
+  font: var(--text-md);
 }
 
 main .container {
@@ -22,10 +23,6 @@ main .container {
   font: var(--text-lg);
   color: var(--text-color-primary);
   margin-bottom: 8px;
-}
-
-#profile p {
-  font: var(--text-md);
 }
 
 #info {
